@@ -2,7 +2,6 @@
 
 An interactive quiz application built with JavaScript. Test your knowledge by answering JavaScript-related questions. Features include score tracking.
 
-# LiveDemo at:  https://ali-sufyan.github.io/quiz-app-in-js/
 
 ## Features
 
